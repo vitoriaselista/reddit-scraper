@@ -1,4 +1,4 @@
-#Reddit Content Scraper
+# Reddit Content Scraper
 
 This script uses the PRAW (Python Reddit API Wrapper) library to retrieve the top submissions from a list of subreddits and saves the resulting data as a pandas DataFrame. The script filters out submissions that have no text body or contain media.
 
